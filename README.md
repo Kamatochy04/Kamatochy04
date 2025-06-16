@@ -23,6 +23,8 @@ Experienced Full-Stack Developer proficient in both frontend and backend technol
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamatochy04&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
+</td></tr></table>
+
 Kamatochy04
 
 ## 📊 LeetCode
@@ -30,5 +32,3 @@ Kamatochy04
 [![LeetCode](https://leetcard.jacoblin.cool/Kamatochy04?theme=light)](https://leetcode.com/Kamatochy04/)
 
 [![Название проекта](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
-
-</td></tr></table>
