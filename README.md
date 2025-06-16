@@ -10,8 +10,7 @@ Experienced Full-Stack Developer proficient in both frontend and backend technol
 
 ## Languages and Tools
 
-<div align="center">
-  <!-- Frontend -->
+<div >
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="25" /></a>
@@ -21,7 +20,7 @@ Experienced Full-Stack Developer proficient in both frontend and backend technol
   <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>
 </div>
 
-<div align="center">
+<div >
   <!-- Backend -->
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>
@@ -29,7 +28,7 @@ Experienced Full-Stack Developer proficient in both frontend and backend technol
   
   <!-- Tools & DevOps -->
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github.png" alt="GitHub" height="25" /></a>
+ 
 </div>
 
 <br/>
