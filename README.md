@@ -25,10 +25,16 @@ Experienced Full-Stack Developer proficient in both frontend and backend technol
 
 </td></tr></table>
 
-Kamatochy04
-
 ## 📊 LeetCode
 
 [![LeetCode](https://leetcard.jacoblin.cool/Kamatochy04?theme=light)](https://leetcode.com/Kamatochy04/)
 
-[![Название проекта](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
+## Projects
+
+[![Социальная сеть ](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
+[![Социальная сеть ](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
+[![Социальная сеть ](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
+[![Социальная сеть ](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
+[![Социальная сеть ](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
+[![Социальная сеть ](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
+[![Социальная сеть ](https://github-readme-stats.vercel.app/api/pin/?username=Kamatochy04&repo=social-network)](https://github.com/Kamatochy04/social-network)
